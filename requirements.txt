@@ -1,0 +1,5 @@
+Flask==3.0.3
+openai==1.45.1
+pdf2image==1.17.0
+Pillow==10.4.0
+Requests==2.32.3
